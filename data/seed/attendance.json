@@ -1,0 +1,1282 @@
+[
+  {
+    "_id": "ATT-001-CSE204-01",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE204-02",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE204-03",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE204-04",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE204-05",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE204-06",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE204-07",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE204-08",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE206-01",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE206-02",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE206-03",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE206-04",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE206-05",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE206-06",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE206-07",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE206-08",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "date": "2026-11-17",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE208-01",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE208",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE208-02",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE208",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE208-03",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE208",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE208-04",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE208",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE208-05",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE208",
+    "date": "2026-11-11",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE208-06",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE208",
+    "date": "2026-11-13",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE208-07",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE208",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-CSE208-08",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE208",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-MAT202-01",
+    "student_id": "STU2026CSE001",
+    "course_id": "MAT202",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-MAT202-02",
+    "student_id": "STU2026CSE001",
+    "course_id": "MAT202",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-MAT202-03",
+    "student_id": "STU2026CSE001",
+    "course_id": "MAT202",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-MAT202-04",
+    "student_id": "STU2026CSE001",
+    "course_id": "MAT202",
+    "date": "2026-11-09",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-MAT202-05",
+    "student_id": "STU2026CSE001",
+    "course_id": "MAT202",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-MAT202-06",
+    "student_id": "STU2026CSE001",
+    "course_id": "MAT202",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-MAT202-07",
+    "student_id": "STU2026CSE001",
+    "course_id": "MAT202",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-001-MAT202-08",
+    "student_id": "STU2026CSE001",
+    "course_id": "MAT202",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE204-01",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE204-02",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE204-03",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE204-04",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE204-05",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE204-06",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE204-07",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE204-08",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE206-01",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE206-02",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE206-03",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE206-04",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE206-05",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE206-06",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE206-07",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "date": "2026-11-15",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE206-08",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE208-01",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE208",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE208-02",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE208",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE208-03",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE208",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE208-04",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE208",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE208-05",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE208",
+    "date": "2026-11-11",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE208-06",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE208",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE208-07",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE208",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-CSE208-08",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE208",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-MAT202-01",
+    "student_id": "STU2026CSE002",
+    "course_id": "MAT202",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-MAT202-02",
+    "student_id": "STU2026CSE002",
+    "course_id": "MAT202",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-MAT202-03",
+    "student_id": "STU2026CSE002",
+    "course_id": "MAT202",
+    "date": "2026-11-07",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-MAT202-04",
+    "student_id": "STU2026CSE002",
+    "course_id": "MAT202",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-MAT202-05",
+    "student_id": "STU2026CSE002",
+    "course_id": "MAT202",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-MAT202-06",
+    "student_id": "STU2026CSE002",
+    "course_id": "MAT202",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-MAT202-07",
+    "student_id": "STU2026CSE002",
+    "course_id": "MAT202",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-002-MAT202-08",
+    "student_id": "STU2026CSE002",
+    "course_id": "MAT202",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE204-01",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE204-02",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE204-03",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE204-04",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE204-05",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "date": "2026-11-11",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE204-06",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "date": "2026-11-13",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE204-07",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "date": "2026-11-15",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE204-08",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "date": "2026-11-17",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE206-01",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE206-02",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE206-03",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE206-04",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "date": "2026-11-09",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE206-05",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "date": "2026-11-11",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE206-06",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "date": "2026-11-13",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE206-07",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE206-08",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE208-01",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "date": "2026-11-03",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE208-02",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "date": "2026-11-05",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE208-03",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "date": "2026-11-07",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE208-04",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "date": "2026-11-09",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE208-05",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE208-06",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE208-07",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-CSE208-08",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-MAT202-01",
+    "student_id": "STU2026CSE003",
+    "course_id": "MAT202",
+    "date": "2026-11-03",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-MAT202-02",
+    "student_id": "STU2026CSE003",
+    "course_id": "MAT202",
+    "date": "2026-11-05",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-MAT202-03",
+    "student_id": "STU2026CSE003",
+    "course_id": "MAT202",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-MAT202-04",
+    "student_id": "STU2026CSE003",
+    "course_id": "MAT202",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-MAT202-05",
+    "student_id": "STU2026CSE003",
+    "course_id": "MAT202",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-MAT202-06",
+    "student_id": "STU2026CSE003",
+    "course_id": "MAT202",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-MAT202-07",
+    "student_id": "STU2026CSE003",
+    "course_id": "MAT202",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-003-MAT202-08",
+    "student_id": "STU2026CSE003",
+    "course_id": "MAT202",
+    "date": "2026-11-17",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE204-01",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE204-02",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE204-03",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE204-04",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE204-05",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE204-06",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE204-07",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "date": "2026-11-15",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE204-08",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE206-01",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE206-02",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE206-03",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE206-04",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "date": "2026-11-09",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE206-05",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "date": "2026-11-11",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE206-06",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE206-07",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE206-08",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE208-01",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE208",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE208-02",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE208",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE208-03",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE208",
+    "date": "2026-11-07",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE208-04",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE208",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE208-05",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE208",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE208-06",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE208",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE208-07",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE208",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-CSE208-08",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE208",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-MAT202-01",
+    "student_id": "STU2026CSE004",
+    "course_id": "MAT202",
+    "date": "2026-11-03",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-MAT202-02",
+    "student_id": "STU2026CSE004",
+    "course_id": "MAT202",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-MAT202-03",
+    "student_id": "STU2026CSE004",
+    "course_id": "MAT202",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-MAT202-04",
+    "student_id": "STU2026CSE004",
+    "course_id": "MAT202",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-MAT202-05",
+    "student_id": "STU2026CSE004",
+    "course_id": "MAT202",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-MAT202-06",
+    "student_id": "STU2026CSE004",
+    "course_id": "MAT202",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-MAT202-07",
+    "student_id": "STU2026CSE004",
+    "course_id": "MAT202",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-004-MAT202-08",
+    "student_id": "STU2026CSE004",
+    "course_id": "MAT202",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE204-01",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE204-02",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE204-03",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE204-04",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "date": "2026-11-09",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE204-05",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "date": "2026-11-11",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE204-06",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "date": "2026-11-13",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE204-07",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE204-08",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE206-01",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE206-02",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "date": "2026-11-05",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE206-03",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "date": "2026-11-07",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE206-04",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "date": "2026-11-09",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE206-05",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE206-06",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE206-07",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE206-08",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE208-01",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE208",
+    "date": "2026-11-03",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE208-02",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE208",
+    "date": "2026-11-05",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE208-03",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE208",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE208-04",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE208",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE208-05",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE208",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE208-06",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE208",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE208-07",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE208",
+    "date": "2026-11-15",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-CSE208-08",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE208",
+    "date": "2026-11-17",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-MAT202-01",
+    "student_id": "STU2026CSE005",
+    "course_id": "MAT202",
+    "date": "2026-11-03",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-MAT202-02",
+    "student_id": "STU2026CSE005",
+    "course_id": "MAT202",
+    "date": "2026-11-05",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-MAT202-03",
+    "student_id": "STU2026CSE005",
+    "course_id": "MAT202",
+    "date": "2026-11-07",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-MAT202-04",
+    "student_id": "STU2026CSE005",
+    "course_id": "MAT202",
+    "date": "2026-11-09",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-MAT202-05",
+    "student_id": "STU2026CSE005",
+    "course_id": "MAT202",
+    "date": "2026-11-11",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-MAT202-06",
+    "student_id": "STU2026CSE005",
+    "course_id": "MAT202",
+    "date": "2026-11-13",
+    "status": "present",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-MAT202-07",
+    "student_id": "STU2026CSE005",
+    "course_id": "MAT202",
+    "date": "2026-11-15",
+    "status": "absent",
+    "session_type": "lecture"
+  },
+  {
+    "_id": "ATT-005-MAT202-08",
+    "student_id": "STU2026CSE005",
+    "course_id": "MAT202",
+    "date": "2026-11-17",
+    "status": "absent",
+    "session_type": "lecture"
+  }
+]

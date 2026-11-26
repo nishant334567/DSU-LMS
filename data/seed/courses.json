@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "CSE204",
+    "code": "CSE204",
+    "name": "Python Programming",
+    "department": "Computer Science and Engineering",
+    "semester": 4,
+    "credits": 3,
+    "faculty_id": "FAC001",
+    "topics": [
+      "Python Fundamentals",
+      "Control Flow",
+      "Loops",
+      "Functions",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "_id": "CSE206",
+    "code": "CSE206",
+    "name": "Database Management Systems",
+    "department": "Computer Science and Engineering",
+    "semester": 4,
+    "credits": 4,
+    "faculty_id": "FAC002",
+    "topics": [
+      "Relational Model",
+      "SQL",
+      "Normalization",
+      "Transactions",
+      "Indexing"
+    ]
+  },
+  {
+    "_id": "CSE208",
+    "code": "CSE208",
+    "name": "Data Structures and Algorithms",
+    "department": "Computer Science and Engineering",
+    "semester": 4,
+    "credits": 4,
+    "faculty_id": "FAC003",
+    "topics": [
+      "Arrays",
+      "Linked Lists",
+      "Stacks and Queues",
+      "Trees",
+      "Sorting and Searching"
+    ]
+  },
+  {
+    "_id": "MAT202",
+    "code": "MAT202",
+    "name": "Engineering Mathematics IV",
+    "department": "Mathematics",
+    "semester": 4,
+    "credits": 4,
+    "faculty_id": "FAC004",
+    "topics": [
+      "Linear Algebra",
+      "Eigenvalues",
+      "Probability",
+      "Statistics"
+    ]
+  }
+]

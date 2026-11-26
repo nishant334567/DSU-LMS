@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "STU2026CSE001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@dsu.edu.in",
+    "phone": "+91-9000001001",
+    "department": "Computer Science and Engineering",
+    "program": "B.Tech",
+    "semester": 4,
+    "section": "A",
+    "academic_year": "2026-27",
+    "campus": "DSU Bengaluru",
+    "status": "active"
+  },
+  {
+    "_id": "STU2026CSE002",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@dsu.edu.in",
+    "phone": "+91-9000001002",
+    "department": "Computer Science and Engineering",
+    "program": "B.Tech",
+    "semester": 4,
+    "section": "A",
+    "academic_year": "2026-27",
+    "campus": "DSU Bengaluru",
+    "status": "active"
+  },
+  {
+    "_id": "STU2026CSE003",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@dsu.edu.in",
+    "phone": "+91-9000001003",
+    "department": "Computer Science and Engineering",
+    "program": "B.Tech",
+    "semester": 4,
+    "section": "A",
+    "academic_year": "2026-27",
+    "campus": "DSU Bengaluru",
+    "status": "active"
+  },
+  {
+    "_id": "STU2026CSE004",
+    "name": "Isha Nair",
+    "email": "isha.nair@dsu.edu.in",
+    "phone": "+91-9000001004",
+    "department": "Computer Science and Engineering",
+    "program": "B.Tech",
+    "semester": 4,
+    "section": "A",
+    "academic_year": "2026-27",
+    "campus": "DSU Bengaluru",
+    "status": "active"
+  },
+  {
+    "_id": "STU2026CSE005",
+    "name": "Kabir Khan",
+    "email": "kabir.khan@dsu.edu.in",
+    "phone": "+91-9000001005",
+    "department": "Computer Science and Engineering",
+    "program": "B.Tech",
+    "semester": 4,
+    "section": "A",
+    "academic_year": "2026-27",
+    "campus": "DSU Bengaluru",
+    "status": "active"
+  }
+]

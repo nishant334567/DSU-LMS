@@ -1,0 +1,75 @@
+[
+  {
+    "_id": "RES20401",
+    "course_id": "CSE204",
+    "title": "Python Control Flow and Loops",
+    "type": "pdf",
+    "topic": "Loops",
+    "difficulty": "beginner",
+    "file_path": "data/course_material/python/control_flow_and_loops.pdf",
+    "tags": [
+      "for loop",
+      "while loop",
+      "break",
+      "continue"
+    ]
+  },
+  {
+    "_id": "RES20402",
+    "course_id": "CSE204",
+    "title": "Python Functions",
+    "type": "pdf",
+    "topic": "Functions",
+    "difficulty": "intermediate",
+    "file_path": "data/course_material/python/functions.pdf",
+    "tags": [
+      "parameters",
+      "return values",
+      "scope"
+    ]
+  },
+  {
+    "_id": "RES20601",
+    "course_id": "CSE206",
+    "title": "SQL Joins and Queries",
+    "type": "pdf",
+    "topic": "SQL",
+    "difficulty": "beginner",
+    "file_path": "data/course_material/dbms/sql_joins.pdf",
+    "tags": [
+      "select",
+      "joins",
+      "where",
+      "group by"
+    ]
+  },
+  {
+    "_id": "RES20801",
+    "course_id": "CSE208",
+    "title": "Stacks and Queues",
+    "type": "pdf",
+    "topic": "Stacks and Queues",
+    "difficulty": "beginner",
+    "file_path": "data/course_material/dsa/stacks_queues.pdf",
+    "tags": [
+      "stack",
+      "queue",
+      "LIFO",
+      "FIFO"
+    ]
+  },
+  {
+    "_id": "RES20201",
+    "course_id": "MAT202",
+    "title": "Introduction to Linear Algebra",
+    "type": "pdf",
+    "topic": "Linear Algebra",
+    "difficulty": "intermediate",
+    "file_path": "data/course_material/mathematics/linear_algebra.pdf",
+    "tags": [
+      "matrices",
+      "vectors",
+      "linear systems"
+    ]
+  }
+]

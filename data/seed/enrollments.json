@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "ENR001",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR002",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR003",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE208",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR004",
+    "student_id": "STU2026CSE001",
+    "course_id": "MAT202",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR005",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR006",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR007",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE208",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR008",
+    "student_id": "STU2026CSE002",
+    "course_id": "MAT202",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR009",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR010",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR011",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR012",
+    "student_id": "STU2026CSE003",
+    "course_id": "MAT202",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR013",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR014",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR015",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE208",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR016",
+    "student_id": "STU2026CSE004",
+    "course_id": "MAT202",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR017",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR018",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR019",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE208",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  },
+  {
+    "_id": "ENR020",
+    "student_id": "STU2026CSE005",
+    "course_id": "MAT202",
+    "academic_year": "2026-27",
+    "semester": 4,
+    "section": "A",
+    "status": "active"
+  }
+]

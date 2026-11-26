@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "FAC001",
+    "name": "Dr. Meera Iyer",
+    "email": "meera.iyer@dsu.edu.in",
+    "department": "Computer Science and Engineering",
+    "designation": "Assistant Professor"
+  },
+  {
+    "_id": "FAC002",
+    "name": "Prof. Arvind Rao",
+    "email": "arvind.rao@dsu.edu.in",
+    "department": "Computer Science and Engineering",
+    "designation": "Associate Professor"
+  },
+  {
+    "_id": "FAC003",
+    "name": "Dr. Neha Kulkarni",
+    "email": "neha.kulkarni@dsu.edu.in",
+    "department": "Computer Science and Engineering",
+    "designation": "Assistant Professor"
+  },
+  {
+    "_id": "FAC004",
+    "name": "Dr. Sandeep Menon",
+    "email": "sandeep.menon@dsu.edu.in",
+    "department": "Mathematics",
+    "designation": "Assistant Professor"
+  }
+]

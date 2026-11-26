@@ -1,0 +1,173 @@
+[
+  {
+    "_id": "EVT-001-01",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "event_type": "resource_opened",
+    "resource_id": "RES20401",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T09:15:00+05:30"
+  },
+  {
+    "_id": "EVT-001-02",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE206",
+    "event_type": "resource_completed",
+    "resource_id": "RES20601",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T10:15:00+05:30"
+  },
+  {
+    "_id": "EVT-001-03",
+    "student_id": "STU2026CSE001",
+    "course_id": "CSE204",
+    "event_type": "quiz_submitted",
+    "resource_id": null,
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T11:15:00+05:30"
+  },
+  {
+    "_id": "EVT-002-01",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "event_type": "resource_opened",
+    "resource_id": "RES20401",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T09:15:00+05:30"
+  },
+  {
+    "_id": "EVT-002-02",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "event_type": "resource_completed",
+    "resource_id": "RES20601",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T10:15:00+05:30"
+  },
+  {
+    "_id": "EVT-002-03",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE204",
+    "event_type": "quiz_submitted",
+    "resource_id": null,
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T11:15:00+05:30"
+  },
+  {
+    "_id": "EVT-002-04",
+    "student_id": "STU2026CSE002",
+    "course_id": "CSE206",
+    "event_type": "resource_opened",
+    "resource_id": "RES20601",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T12:15:00+05:30"
+  },
+  {
+    "_id": "EVT-003-01",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "event_type": "resource_opened",
+    "resource_id": "RES20401",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T09:15:00+05:30"
+  },
+  {
+    "_id": "EVT-003-02",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "event_type": "resource_completed",
+    "resource_id": "RES20601",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T10:15:00+05:30"
+  },
+  {
+    "_id": "EVT-003-03",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE204",
+    "event_type": "quiz_submitted",
+    "resource_id": null,
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T11:15:00+05:30"
+  },
+  {
+    "_id": "EVT-003-04",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE206",
+    "event_type": "resource_opened",
+    "resource_id": "RES20601",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T12:15:00+05:30"
+  },
+  {
+    "_id": "EVT-003-05",
+    "student_id": "STU2026CSE003",
+    "course_id": "CSE208",
+    "event_type": "video_watched",
+    "resource_id": null,
+    "duration_seconds": 420,
+    "timestamp": "2026-11-25T13:15:00+05:30"
+  },
+  {
+    "_id": "EVT-004-01",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "event_type": "resource_opened",
+    "resource_id": "RES20401",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T09:15:00+05:30"
+  },
+  {
+    "_id": "EVT-004-02",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE206",
+    "event_type": "resource_completed",
+    "resource_id": "RES20601",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T10:15:00+05:30"
+  },
+  {
+    "_id": "EVT-004-03",
+    "student_id": "STU2026CSE004",
+    "course_id": "CSE204",
+    "event_type": "quiz_submitted",
+    "resource_id": null,
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T11:15:00+05:30"
+  },
+  {
+    "_id": "EVT-005-01",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "event_type": "resource_opened",
+    "resource_id": "RES20401",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T09:15:00+05:30"
+  },
+  {
+    "_id": "EVT-005-02",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "event_type": "resource_completed",
+    "resource_id": "RES20601",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T10:15:00+05:30"
+  },
+  {
+    "_id": "EVT-005-03",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE204",
+    "event_type": "quiz_submitted",
+    "resource_id": null,
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T11:15:00+05:30"
+  },
+  {
+    "_id": "EVT-005-04",
+    "student_id": "STU2026CSE005",
+    "course_id": "CSE206",
+    "event_type": "resource_opened",
+    "resource_id": "RES20601",
+    "duration_seconds": null,
+    "timestamp": "2026-11-25T12:15:00+05:30"
+  }
+]
